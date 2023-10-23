@@ -1,0 +1,14 @@
+<svg width="300" height="80" viewBox="0 0 300 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_6_2)">
+    <path d="" fill="white"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_6_2">
+      <rect width="300" height="80" fill="white"/>
+    </clipPath>
+    <clipPath id="clip1_6_2">
+      <rect width="80" height="80" fill="white" transform="translate(-8.76955 40) rotate(-45)"/>
+    </clipPath>
+  </defs>
+  <text x="50%" y="55" fill="white" font-weight="bold" font-size="24" text-anchor="middle">Ganja Adventure</text>
+</svg>
